@@ -9,7 +9,7 @@
 **Se trata de hacer Swipe en el tablero e ir moviendo las piezas. Cuando dos piezas tienen el mismo valor se suman. Hay que ir sumando piezas hasta que la mayor valga 2048**
 
 ##Datos técnicos
-- Desarrollado con Objective-C
+- Desarrollado con Swift 2.0
 - Válido para dispositivos 7.0 +
 - Sin StoryBoards ni XIB
 - Separación del patrón de diseño MVC
